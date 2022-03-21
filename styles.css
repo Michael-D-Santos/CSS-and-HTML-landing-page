@@ -226,6 +226,13 @@ a {
   margin-top: -120px;
 }
 
+.copyright-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
 #t1 {
   margin-right: 50px;
 }
